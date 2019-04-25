@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{http://www.warnerion.com/resume/resume.html}, nofooter  
+# jemdoc: menu{MENU}{http://www.warnerion.com}, nofooter  
 ==Wang, Nan (王 南)
 
 ~~~
@@ -25,8 +25,8 @@ Conference Paper:
 . /N. Wang/, M. Song, J. Wang, and Timothy Gordon, [cdc2017_nwang.pdf \” A flow field guided path planning method for unmanned ground vehicle\”], The 56th IEEE Conference on Decision and Control.(published)
 
 Journal Paper:
-. M. Song, /N. Wang/, J. Wang and Timothy Gordon, “Flow-field guided steering control for rigid autonomous ground vehicles in low-speed maneuvering”, Vehicle System Dynamics Special Journal Issue:  Motion Control for Automated Driving and Autonomous Functions.(accepted)
-. /N. Wang/, M. Song, J. Wang and Timothy Gordon, “A trajectory planning method for autonomous ground vehicles guided by fluid flow in dynamic environment”.(written)
+. M. Song, /N. Wang/, J. Wang and Timothy Gordon, “Flow-field guided steering control for rigid autonomous ground vehicles in low-speed maneuvering”, Vehicle System Dynamics Special Journal Issue:  Motion Control for Automated Driving and Autonomous Functions.(published)
+. /N. Wang/, M. Song, J. Wang and Timothy Gordon, “A trajectory planning method for autonomous ground vehicles guided by fluid flow in dynamic environment”.(in progress)
 
 Pattern:
 . /Nan. Wang/, Mengxuan Song, Jun Wang, A Fluid Flow based Planning Method for Autonomous Vehicle. (Application Number: 201710805297.2)
@@ -37,5 +37,5 @@ Pattern:
 [http://www.warnerion.com/multiverse/index.html photograph],  play ping pong，watch football. 
 
 \n
-[cv.pdf A brief cv].
+[CV.pdf A brief cv].
 
